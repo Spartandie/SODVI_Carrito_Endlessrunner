@@ -27,4 +27,4 @@
 
 Soy *Diego Muriel*, el coder de este equipo, aquí estaré reportando mi progreso en el proyecto.
 
-Lindo día. 😋
+😋 Lindo día. 😋
